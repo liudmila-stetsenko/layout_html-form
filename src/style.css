@@ -1,8 +1,12 @@
 .form-field {
   display: block;
-  margin: 5px;
+  margin-bottom: 10px;
+}
+
+.form-field:last-child {
+  margin-bottom: 0;
 }
 
 .groups {
-  margin: 10px;
+  margin-bottom: 20px;
 }
